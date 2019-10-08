@@ -3,7 +3,7 @@
 
 ## 相关资料
 
-1. (近几年录取比)[./baolubi]
+1. [近几年录取比](./baolubi)
 ## 相关参考链接
 
 1. https://github.com/wukongbajie/BUPTNiceMentors
